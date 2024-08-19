@@ -23,8 +23,8 @@ Hey there, glad you've stumbled upon my corner of GitHub. I'm just a guy who lik
 ## 📫 How to Reach Me
 
 - GitHub: You're already here, so feel free to explore my repos!
-- LinkedIn: [Connect with me]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tyler-browne-37403a134/))
-- Scholar: [View my publications]([https://scholar.google.com/citations?user=NPZx6fUAAAAJ&hl=en&oi=sra])
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tyler-browne-37403a134/)
+- Scholar: [View my publications](https://scholar.google.com/citations?user=NPZx6fUAAAAJ&hl=en&oi=sra)
 - Email: [tbrowne5@uwo.ca](tbrowne5@uwo.ca)
 
 Thanks for stopping by! If you've got any comments, questions, or want to collaborate, please reach out! 🎉
