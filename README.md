@@ -1,5 +1,11 @@
 Hey there 👋 glad you've stumbled upon my corner of GitHub. I'm just a guy who likes **Machine Learning** and **Artificial Intelligence** development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
 
+## 🌟 About Me
+
+- 💻 I'm a PhD candidate in biochemistry with specializations in machine learning and scientific computing
+- 🤖 I enjoy working on projects that involve novel methologies, ML architectures, and transfer learning
+- 🌱 In my spare time I love the outdoors, volunteering as a medic, playing guitar, and Pathfinder 1e
+
 🔧 Some of the things I tend to use...
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -10,15 +16,6 @@ Hey there 👋 glad you've stumbled upon my corner of GitHub. I'm just a guy who
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
-## 🌟 About Me
-
-- 💻 I'm a PhD candidate in biochemistry with specializations in machine learning and scientific computing
-- 🤖 I enjoy working on projects that involve novel methologies, ML architectures, and transfer learning
-- 🌱 In my spare time I love the outdoors, volunteering as a medic, guitar, and playing Pathfinder 1e
-- 🛠️ I believe in the power of open-source and I'm always open to collaborate
-
-Thanks for stopping by! If you've got any comments, questions, or want to collaborate, please reach out! 🎉
 
 
 <!--
