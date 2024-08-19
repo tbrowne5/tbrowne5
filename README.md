@@ -1,12 +1,6 @@
-**Hey there** 👋 glad you've stumbled upon my corner of GitHub. I'm just a guy who likes Machine Learning and AI development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
+**Hey there** 👋 glad you've stumbled upon my corner of GitHub. I'm a PhD candidate who likes working on Machine Learning and AI related problems. My primary work has been in the field of genetic engineering and biologcal data analysis, so that's most of what you'll find here. That being said, there's always more to develop...
 
-## About Me:
-
-- 💻 I'm a PhD candidate in biochemistry with specializations in machine learning and scientific computing
-- 🤖 I enjoy working on projects that involve novel methologies, ML architectures, and transfer learning
-- 🌱 In my spare time I love the outdoors, volunteering as a medic, playing guitar, and Pathfinder 1e
-
-Some of the things I tend to use...
+Some of the things I tend to use 💻
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
