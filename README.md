@@ -1,4 +1,4 @@
-Hey there 👋 glad you've stumbled upon my corner of GitHub. I'm just a guy who likes **Machine Learning** and **Artificial Intelligence** development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
+**Hey there** 👋 glad you've stumbled upon my corner of GitHub. I'm just a guy who likes Machine Learning and AI development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
 
 ## About Me:
 
