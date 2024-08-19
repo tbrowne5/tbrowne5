@@ -1,6 +1,4 @@
-## Hi, I'm Tyler 👋
-
-Hey there, glad you've stumbled upon my corner of GitHub. I'm just a guy who likes **Machine Learning** and **Artificial Intelligence** development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
+Hey there 👋 glad you've stumbled upon my corner of GitHub. I'm just a guy who likes **Machine Learning** and **Artificial Intelligence** development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
 
 🔧 Some of the things I tend to use...
 
@@ -19,13 +17,6 @@ Hey there, glad you've stumbled upon my corner of GitHub. I'm just a guy who lik
 - 🤖 I enjoy working on projects that involve novel methologies, ML architectures, and transfer learning
 - 🌱 In my spare time I love the outdoors, volunteering as a medic, guitar, and playing Pathfinder 1e
 - 🛠️ I believe in the power of open-source and I'm always open to collaborate
-
-## 📫 How to Reach Me
-
-- GitHub: You're already here, so feel free to explore my repos!
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/tyler-browne-37403a134)
-- Scholar: [View my publications](https://scholar.google.com/citations?user=NPZx6fUAAAAJ&hl=en&oi=sra)
-- Email: [tbrowne5@uwo.ca](tbrowne5@uwo.ca)
 
 Thanks for stopping by! If you've got any comments, questions, or want to collaborate, please reach out! 🎉
 
