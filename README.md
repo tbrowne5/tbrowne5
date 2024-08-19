@@ -1,10 +1,8 @@
-# 👋 Welcome to My GitHub Profile!
+## Hi, I'm Tyler 👋
 
-Hey there, glad you've stumbled upon my corner of GitHub. 🚀
+Hey there, glad you've stumbled upon my corner of GitHub. I'm just a guy who likes **Machine Learning** and **Artificial Intelligence** development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
 
-I'm just a guy who likes **Machine Learning** and **Artificial Intelligence** development. My primary work has been in the field of genetic engineering and general biologcal data analysis, so that's most of what you'll find here. That being said, I hope to be making public some of my side projects soon!
-
-## 🔧 Technologies & Tools I Love
+🔧 Some of the things I tend to use...
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
